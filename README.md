@@ -1,5 +1,6 @@
 # 多入口React项目
 
+## 操作说明
 ```
 ## 初始化
 npm install
@@ -10,8 +11,6 @@ npm start
 ## 构建
 npm run build
 ```
-
-#
 
 ## 新增views方法，以test为例
 ```
