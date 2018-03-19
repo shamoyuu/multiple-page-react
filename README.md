@@ -18,5 +18,5 @@ npm run build
 
 2、在其中新建test.component.js和test.js文件，编写内容 
 
-3、修改跟目录下entries.js文件，按规则添加一个name为test的对象 
+3、修改根目录下entries.js文件，按规则添加一个name为test的对象 
 ```
