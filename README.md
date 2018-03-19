@@ -1,6 +1,6 @@
 # 多入口React项目
 
-
+`
 ## 初始化
 npm install
  
@@ -9,7 +9,7 @@ npm start
  
 ## 构建
 npm run build
- 
+`
 
 #
 
